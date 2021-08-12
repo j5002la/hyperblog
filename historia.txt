@@ -1,6 +1,8 @@
 Esta es la historia de Jorge Calvache
 
-Jorge Calvache tiene 30 años y nació en Colombia,
-viviendo en todo el mundo
+Jorge Calvache tiene 30 años y nació en Ecuador (Reino de Quito),
+y quiere viajar por todo el mundo con toda su familia.
 
 Hoy hablaremos de su historia.
+
+Está aprendiendo git, eso es muy bueno. :)
