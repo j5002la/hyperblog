@@ -6,3 +6,5 @@ y quiere viajar por todo el mundo con toda su familia.
 Hoy hablaremos de su historia.
 
 Está aprendiendo git, eso es muy bueno. :)
+
+Actualmente es BI en Rappi, y va a llegar muy alto.
